@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build folders
+/bin/
+/_output/
+
+# Logs and temporary files
+*.log
+/tmp/
+
+# Vendor (if you vendor dependencies locally)
+vendor/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Coverage and profiling
+*.coverprofile
+
+# Go workspace and cache files (local only)
+*.modcache
+*.sum
